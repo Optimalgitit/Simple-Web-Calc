@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: rgb(0, 82, 82);
+    color: white;
+}
+h1 {
+    margin: auto;
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+button, input, select {
+    border: 0px;
+    border-radius: 2px;
+    border-color: rgba(0, 0, 0, 0);
+    padding: 5px;
+}
+button:hover, input:hover, select:hover {
+    background-color: black;
+    color: white;
+}
+#calcstat {
+    margin: 20px;
+}
