@@ -1,3 +1,4 @@
+document.getElementById("op").value = ""
 document.getElementById("calc").onclick = function() {
   var fnum = Number(document.getElementById("fn").value);
   var oper = document.getElementById("op").value;
